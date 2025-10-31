@@ -1,9 +1,9 @@
 {
-  "name": "foxo-clone",
+  "name": "Arogyam",
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://amishashank.github.io/Arogya",
+  "homepage": "https://amishashank.github.io/Arogyam",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
